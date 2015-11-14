@@ -1,4 +1,4 @@
 date
 echo "this is my first program.."
 date
-echo "another t"
+echo "another test"
